@@ -1,1 +1,1 @@
-# Beginner-ML-projects
+# ML-projects
